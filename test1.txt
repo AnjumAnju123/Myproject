@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 54E3-AA41
+
+ Directory of C:\Users\sonuh\OneDrive\Desktop\My project
+
+28-09-2024  10:27    <DIR>          .
+28-09-2024  10:24    <DIR>          ..
+28-09-2024  10:27                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  409,308,299,264 bytes free
